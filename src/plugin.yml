@@ -1,0 +1,5 @@
+name: SlackChat
+main: me.terturl.SlackChat.Main
+version: 0.1-alpha1
+description: Chat to Slack Bridge
+#depend: [Essentials]
